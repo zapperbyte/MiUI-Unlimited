@@ -1,1 +1,39 @@
-
+<resources>
+    <!-- Do not remove "\n" !!! It creates a linebreak and makes larger textblocks better readable! Use it in your translation as well -->
+    <!-- Do not remove "\n" !!! It creates a linebreak and makes larger textblocks better readable! Use it in your translation as well -->
+    <!-- Do not remove "\n" !!! It creates a linebreak and makes larger textblocks better readable! Use it in your translation as well -->
+    <string name="app_name">MiUI Unlimited</string>
+    <string name="check_text_checkDeviceInfo">Prüfe Geräteinformationen</string>
+    <string name="check_text_checkRootStatus">Prüfe Root Status</string>
+    <string name="check_text_rootDenied">Root Zugriff verweigert!</string>
+    <string name="check_text_deviceNotSupported">Dein Gerät wird nicht unterstützt!</string>
+    <string name="check_alertRootDenied_message">"Dein Gerät ist nicht gerootet oder der Root-Zugriff wurde verweigert!\nBitte aktiviere Root-Zugriff auf deinem Gerät um diese App zu benutzen."</string>
+    <string name="check_alertDeviceNotSupported_message">"Diese App ist nur für ausgewählte Geräte verfügbar. Bitte besuche www.zapperbyte.com um eine Liste mit unterstützten Smartphone-Modellen zu sehen."</string>
+    <string name="check_alertDeviceNotSupported_visitSite">"Webseite öffnen"</string>
+    <string name="info_desc_usbConnect">USB Status</string>
+    <string name="info_value_usbConnect_connected">Verbunden</string>
+    <string name="info_value_usbConnect_disconnected">Getrennt</string>
+    <string name="info_desc_charging">Akku lädt</string>
+    <string name="info_value_charging_no">Nein</string>
+    <string name="info_value_charging_yes">Ja</string>
+    <string name="info_value_charging_noSupport">Nicht verfügbar</string>
+    <string name="info_desc_ampere_discharging">Akkuverbrauch</string>
+    <string name="info_desc_ampere_charging">Ladestrom</string>
+    <string name="info_desc_batteryTemp">Akkutemperatur</string>
+    <string name="button_text_performanceMode">Performance Modus</string>
+    <string name="button_text_normalMode">Normaler Modus</string>
+    <string name="main_alertNeedUpdate_title">Update verfügbar</string>
+    <string name="main_alertNeedUpdate_download">Download</string>
+    <string name="main_alertNeedUpdate_ignore">Ignorieren</string>
+    <string name="main_alertNeedUpdate_message">"Es ist eine neuere Version von MiUI Unlimited verfügbar!\nEs wird empfohlen immer die aktuellste Version zu nutzen, um von Bugfixes und neuen Features zu profitieren.\n\nNeue Version: "</string>
+    <string name="main_alertFirstUsage_Ok">Ich verstehe</string>
+    <string name="main_alertFirstUsage_message">"Diese App ändert CPU und Leistungsparameter auf Systemebene um 100% der Hardwareleistung verfügbar zu machen. Sie ist mit allen MIUI-basierten Firmwares kompatibel. Es wird nicht empfohlen die App auf anderen Firmwares wie zB. Stock Android, LineageOS, etc. zu nutzen.\n\nUm Probleme und Schäden zu vermeiden, solltest du auf die Temperatur deines Geräts achten!\nWie alle Root-Apps, benutzt du auch MiUI-Unlimited auf eigene Gefahr."</string>
+    <string name="drawer_open">Öffne Navigationsmenü</string>
+    <string name="drawer_close">Schließe Navigationsmenü</string>
+    <string name="drawer_title">Menü</string>
+    <string name="drawer_item_about">Info</string>
+    <string name="drawer_item_shop">Shop</string>
+    <string name="drawer_item_donate">Spenden</string>
+    <string name="drawer_item_support">Support</string>
+    <string name="drawer_item_translate">Übersetzung</string>
+</resources>
