@@ -1,4 +1,4 @@
 # MiUI-Unlimited
 App Translation Repository
 
-![alt text](http://zapperbyte.com/wp-content/uploads/2017/08/miui_unlimited_promo-1024x525.png)
+![miui_unlimited_promo](https://user-images.githubusercontent.com/31399980/30377070-bca24b40-988e-11e7-93ad-4e3c9d552f20.png)
