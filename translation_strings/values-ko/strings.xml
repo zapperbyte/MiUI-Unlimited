@@ -25,9 +25,9 @@
     <string name="main_alertNeedUpdate_title">Update available</string>
     <string name="main_alertNeedUpdate_download">Download</string>
     <string name="main_alertNeedUpdate_ignore">Ignore</string>
-    <string name="main_alertNeedUpdate_message">"A newer version of MiUI Unlimited is available!\nIt is recommended to allways use the latest version containing bugfixes and new features.\n\nNew version: "</string>
+    <string name="main_alertNeedUpdate_message">"A newer version of MiUI Unlimited is available!\nIt is recommended to always use the latest version containing bugfixes and new features.\n\nNew version: "</string>
     <string name="main_alertFirstUsage_Ok">I understand</string>
-    <string name="main_alertFirstUsage_message">"This app will change CPU and Performanceparameters on system-level to reach 100% performance from your hardware. It is designed for all kind of MiUI Firmwares. It is not recommended to use it on other Firmwares such like Stock Android, LineageOS, etc.\n\nPlease watch device temperature in order to prevent your device from being damaged!\nYou are using this App on your own Risk."</string>
+    <string name="main_alertFirstUsage_message">"This app will change CPU and Performance parameters on system-level to reach 100% performance from your hardware. It is designed for all kind of MiUI Firmwares. It is not recommended to use it on other Firmwares such like Stock Android, LineageOS, etc.\n\nPlease watch device temperature in order to prevent your device from being damaged!\nYou are using this App on your own Risk."</string>
     <string name="drawer_open">Open navigation drawer</string>
     <string name="drawer_close">Close navigation drawer</string>
     <string name="drawer_title">Menu</string>
