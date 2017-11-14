@@ -1,0 +1,25 @@
+
+####---# Play Store Short description
+Use 100 % performance of your Xiaomi Smartphone or Tablet without limitations!
+####---# 
+
+####---#  Play Store full description
+Smartphone Brands around the world create more and more powerful devices every year. Containing powerfull hardware, those phones have the potential to perform a lot better than they actually do by default. They are limited by different software parts (Thermal throttling, Hotplugging, Frequency Limitation, etc ...) to achieve a longer battery life or lower the device temperature of your phone!
+
+MiUI Unlimited will break those limitations and release the full potential of your phones hardware! So if you ever need more performance for playing a game or running CPU-intensive Applications, you can simply run MiUI Unlimited, enable the performance mode and enjoy the unlimited power of your smartphone.
+
+Features:
+** Display USB Connection Status
+** Display Charging State and current mA (Not available for MediaTek SoC)
+** Determine bad charging sources (You can see when USB is connected, but the battery is not charging)
+** Display CPU Core Status and Frequency
+** Switch on/off Performance Mode
+** Performance mode was exclusively created for the specific phone models
+** Release 100 % performance of your phones hardware, even on low battery
+
+Requirements:
+** App needs Root-Access
+** Developed and tested only on MiUI Firmwares (Should basically work on other firmwares too)
+** Exclusively available for selected Xiaomi Smartphones and Tablets:
+** -> More information on http://zapperbyte.com/MiUI-Unlimited
+####---#
