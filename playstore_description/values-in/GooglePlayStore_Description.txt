@@ -1,25 +1,25 @@
 
 ####---# Play Store Short description
-Use 100 % performance of your Xiaomi Smartphone or Tablet without limitations!
+Gunakan kinerja 100% dari Smartphone atau Tablet Xiaomi Anda tanpa batasan!
 ####---# 
 
 ####---#  Play Store full description
-Smartphone Brands around the world create more and more powerful devices every year. Containing powerfull hardware, those phones have the potential to perform a lot better than they actually do by default. They are limited by different software parts (Thermal throttling, Hotplugging, Frequency Limitation, etc ...) to achieve a longer battery life or lower the device temperature of your phone!
+Merek Smartphone di seluruh dunia membuat perangkat yang lebih dan lebih hebat setiap tahunnya. Mengandung perangkat keras yang kuat, ponsel tersebut berpotensi tampil jauh lebih baik daripada yang sebenarnya mereka lakukan secara standar. Mereka dibatasi oleh bagian perangkat lunak yang berbeda (Pelepasan termal, Hotplugging, Pembatasan frekuensi, dll ...) untuk mendapatkan masa pakai baterai lebih lama atau menurunkan suhu perangkat telepon Anda!
 
-MiUI Unlimited will break those limitations and release the full potential of your phones hardware! So if you ever need more performance for playing a game or running CPU-intensive Applications, you can simply run MiUI Unlimited, enable the performance mode and enjoy the unlimited power of your smartphone.
+MiUI Unlimited akan mematahkan keterbatasan tersebut dan melepaskan potensi penuh dari perangkat keras ponsel Anda! Jadi jika Anda membutuhkan lebih banyak kinerja untuk bermain Permainan atau menjalankan Aplikasi CPU-intensif, Anda cukup menjalankan MiUI Unlimited, mengaktifkan Mode Kinerja dan nikmati kekuatan smartphone Anda yang tak terbatas.
 
-Features:
-** Display USB Connection Status
-** Display Charging State and current mA (Not available for MediaTek SoC)
-** Determine bad charging sources (You can see when USB is connected, but the battery is not charging)
-** Display CPU Core Status and Frequency
-** Switch on/off Performance Mode
-** Performance mode was exclusively created for the specific phone models
-** Release 100 % performance of your phones hardware, even on low battery
+Fitur:
+** Menampilkan status koneksi USB
+** Menampilkan status pengisian dan mA saat pengisian (Tidak tersedia untuk SoC MediaTek)
+** Menentukan sumber pengisian yang buruk (Anda dapat melihat saat USB tersambung, namun baterai tidak mengisi daya)
+** Menampilkan Status Core CPU dan Frekuensi
+** Mengaktifkan / menonaktifkan Mode Kinerja
+** Mode Kinerja diciptakan secara eksklusif untuk model telepon tertentu
+** Melepaskan kinerja 100% dari perangkat keras ponsel Anda, bahkan pada baterai rendah
 
-Requirements:
-** App needs Root-Access
-** Developed and tested only on MiUI Firmwares (Should basically work on other firmwares too)
-** Exclusively available for selected Xiaomi Smartphones and Tablets:
-** -> More information on http://zapperbyte.com/MiUI-Unlimited
+Persyaratan:
+** Aplikasi membutuhkan akses-root
+** Dikembangkan dan diuji hanya pada Firmware MiUI (Pada dasarnya tentu bekerja pada Firmware lain juga)
+** Tersedia secara eksklusif untuk Smartphone dan Tablet Xiaomi yang dipilih:
+** -> Informasi lebih lanjut di http://zapperbyte.com/MiUI-Unlimited
 ####---#
